@@ -74,7 +74,9 @@ int main(int argc, char *argv[]) {
 }
 ~~~
 
-![Alt text](<Screenshot at 2025-11-18 14-43-47.png>)
+## OUTPUT
+
+<img width="838" height="150" alt="Screenshot 2026-09-07 at 23 41 31" src="https://github.com/user-attachments/assets/03fb7b06-71af-4448-9770-84f33bf67134" />
 
 
 
@@ -156,7 +158,8 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-![Alt text](<Screenshot at 2025-11-18 14-44-53.png>)
+<img width="850" height="686" alt="Screenshot 2026-09-07 at 23 41 56" src="https://github.com/user-attachments/assets/089c0c25-1647-46a0-8a7d-fcb8a06c505a" />
+
 
 
 
